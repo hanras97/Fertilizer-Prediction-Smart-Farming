@@ -5,7 +5,7 @@ GUI
 Tools : tkinter
 
 Code developed by : Suvam Das & Sougata Hanra
-github : @hanras97 , @suvam14das
+github : @suvam14das, @hanras97
 
 ####################################################################################################################################
 
